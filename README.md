@@ -4,8 +4,8 @@ This is a solution to the freeCodeCamp JavaScript Algorithms and Data Structures
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Netlify]()
+- Solution URL: [Github](https://github.com/Afroblman/cash-register)
+- Live Site URL: [Netlify](https://fcc-cash-register.netlify.app/)
 
 ### Built with
 
